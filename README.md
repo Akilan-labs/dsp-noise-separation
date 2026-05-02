@@ -1,6 +1,6 @@
 # 🎵 Separation of Noises from a Song using MATLAB
 
-> A DSP mini project that adds noise to an audio signal, separates it using Butterworth low-pass filtering and STFT-domain Wiener filtering, and analyzes the results through time-domain plots and frequency spectra.
+> A DSP project that adds noise to an audio signal, separates it using Butterworth low-pass filtering and STFT-domain Wiener filtering, and analyzes the results through time-domain plots and frequency spectra.
 
 ---
 
@@ -80,4 +80,4 @@ Full  report with output plots
 
 ## 📜 License
 
-Submitted as an academic lab project. All rights reserved by the author.
+Submitted as an academic project. All rights reserved by the author.
